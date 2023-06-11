@@ -1,3 +1,6 @@
+For authorization and verification: login: ppetr@gmail.com password: sa123987sa 
+/*To run, install Node.js, configure npm and yarn on PC*/.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
